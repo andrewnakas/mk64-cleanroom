@@ -50,6 +50,10 @@
   - Deterministic harness now: native mupen64plus 2.6.0 (`tools/m64p_test.py`) with our scripted-input plugin (`tools/m64p_script_input`).
   - `tools/race.script` drives title → 1P → Mario GP → 50cc → Mario → Mushroom Cup → race.
 
+## Fixed 10:30
+- 38 palette/podium `.inc.c` files had been kept verbatim (retail pixel data) and 179 PNG-derived `.inc.c` files were listed as kept. All are now generated or derived; the public repo was re-created as a single clean commit (history rewritten), and the site ROM was rebuilt.
+- Rank portraits, rank numbers and the item window now render in races.
+
 ## Works
 - Dirty tree round-trip: build == retail sha1.
 - Headless testing: `ports/ejs/cdp_shot.py --gpu` (real GPU via ANGLE/D3D11, CDP key events + page screenshots). SwiftShader is too slow for this emulator.
@@ -61,7 +65,7 @@
 
 ## For the morning
 - Open the site in Chrome/Edge and play a Mushroom Cup race; report anything broken.
-- Voices: `C:/Users/andre/n64work/mk64/practice_pack/` (57 clips, one call-and-response track per speaker, `SCRIPT.txt`). Record, then cut with `cleanroom.voice.takes` into `games/mk64/voices/<slot>.wav` and rebuild (`games/mk64/build_clean.sh` + `generate --only snd`).
+- Voices: **one combined track** `~/Downloads/MK64_voice_practice/mk64_all_voices_call_and_response.wav` + `SCRIPT.txt` (all 57 lines, all characters, 5 min; asked for 10:15). Per-character tracks: `C:/Users/andre/n64work/mk64/practice_pack/` (57 clips, one call-and-response track per speaker, `SCRIPT.txt`). Record, then cut with `cleanroom.voice.takes` into `games/mk64/voices/<slot>.wav` and rebuild (`games/mk64/build_clean.sh` + `generate --only snd`).
 - Look at: kart sprites / busts (our primitive models), title illustration and logo, menu labels.
 - Review the kept facts listed above (microcode, IPL3 glyphs, geometry C).
 - Voices: MK64 has few voice lines (character select names, "Mario Kart!" etc.). Placeholder/practice pack not built yet.
