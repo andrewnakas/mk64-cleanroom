@@ -1,0 +1,296 @@
+{
+ "_doc": "Voice sample slots (tbl offsets) -> words (transcribed once in the dirty room; words only) and speaker. Placeholder TTS voices; the user records real takes (practice pack).",
+ "_characters": {
+  "mario": {
+   "tts": {
+    "model": "en_US-ryan-high",
+    "semitones": 4.0,
+    "length": 0.95
+   }
+  },
+  "luigi": {
+   "tts": {
+    "model": "en_US-joe-medium",
+    "semitones": 5.0,
+    "length": 0.95
+   }
+  },
+  "yoshi": {
+   "tts": {
+    "model": "en_US-amy-medium",
+    "semitones": 7.0,
+    "length": 0.9
+   }
+  },
+  "toad": {
+   "tts": {
+    "model": "en_US-kristin-medium",
+    "semitones": 8.0,
+    "length": 0.9
+   }
+  },
+  "peach": {
+   "tts": {
+    "model": "en_US-hfc_female-medium",
+    "semitones": 3.0,
+    "length": 1.0
+   }
+  },
+  "wario": {
+   "tts": {
+    "model": "en_US-joe-medium",
+    "semitones": -2.0,
+    "length": 1.0
+   }
+  },
+  "dk": {
+   "tts": {
+    "model": "en_US-ryan-high",
+    "semitones": -5.0,
+    "length": 1.0
+   }
+  },
+  "bowser": {
+   "tts": {
+    "model": "en_US-ryan-high",
+    "semitones": -6.0,
+    "length": 1.05
+   }
+  },
+  "announcer": {
+   "tts": {
+    "model": "en_US-ryan-high",
+    "semitones": 0.0,
+    "length": 1.0
+   }
+  }
+ },
+ "1460000": {
+  "who": "announcer",
+  "text": "Hey, you very good! See you next time!"
+ },
+ "1523104": {
+  "who": "announcer",
+  "text": "Welcome to Mario Kart!"
+ },
+ "1201136": {
+  "who": "wario",
+  "text": "Here I go!"
+ },
+ "1025408": {
+  "who": "mario",
+  "text": "Here we go!"
+ },
+ "994256": {
+  "who": "mario",
+  "text": "Let's-a go!"
+ },
+ "1092304": {
+  "who": "luigi",
+  "text": "I'm Luigi, number one."
+ },
+ "796512": {
+  "who": "announcer",
+  "text": "Select your player!"
+ },
+ "1275664": {
+  "who": "wario",
+  "text": "I'm a warrior, I'm a gonna win!"
+ },
+ "309968": {
+  "who": "peach",
+  "text": "Alright!"
+ },
+ "723392": {
+  "who": "announcer",
+  "text": "Mario Grand Prix!"
+ },
+ "1182944": {
+  "who": "wario",
+  "text": "I'm the best!"
+ },
+ "1354432": {
+  "who": "dk",
+  "text": "Let's go!"
+ },
+ "926864": {
+  "who": "mario",
+  "text": "Weeehee!"
+ },
+ "522608": {
+  "who": "announcer",
+  "text": "Yippee!"
+ },
+ "174400": {
+  "who": "toad",
+  "text": "Okay!"
+ },
+ "937536": {
+  "who": "mario",
+  "text": "Wahoo!"
+ },
+ "118768": {
+  "who": "mario",
+  "text": "W a a a a a a a a a!"
+ },
+ "686096": {
+  "who": "yoshi",
+  "text": "Wha-"
+ },
+ "1303712": {
+  "who": "dk",
+  "text": "Here we go!"
+ },
+ "951472": {
+  "who": "mario",
+  "text": "Yeah! Ha ha ha!"
+ },
+ "763792": {
+  "who": "announcer",
+  "text": "Select the level."
+ },
+ "1004128": {
+  "who": "mario",
+  "text": "Hehe, I got it!"
+ },
+ "982512": {
+  "who": "mario",
+  "text": "Oh, whoa, whoa, whoa, whoa, whoa, whoa, "
+ },
+ "818128": {
+  "who": "announcer",
+  "text": "Congratulations!"
+ },
+ "1172464": {
+  "who": "toad",
+  "text": "Yahoo!"
+ },
+ "1244832": {
+  "who": "wario",
+  "text": "WAAAAAAH!"
+ },
+ "1066896": {
+  "who": "luigi",
+  "text": "Whoa, whoa, whoa, whoa, whoa, whoa."
+ },
+ "1079504": {
+  "who": "luigi",
+  "text": "Yahoo!"
+ },
+ "156464": {
+  "who": "mario",
+  "text": "Okey-dokey!"
+ },
+ "1361856": {
+  "who": "dk",
+  "text": "Yeah, Peaches got it."
+ },
+ "777520": {
+  "who": "announcer",
+  "text": "Okay?"
+ },
+ "1228736": {
+  "who": "wario",
+  "text": "Y-Y-Y-Y-YAAAAA!"
+ },
+ "1297808": {
+  "who": "dk",
+  "text": "Take that!"
+ },
+ "1394592": {
+  "who": "bowser",
+  "text": "RRRRRRRRRRRR"
+ },
+ "1502272": {
+  "who": "announcer",
+  "text": "AAAAAAAAH"
+ },
+ "737216": {
+  "who": "announcer",
+  "text": "Time trial!"
+ },
+ "1261184": {
+  "who": "wario",
+  "text": "Ah ha ha ha ha ha!"
+ },
+ "1121632": {
+  "who": "toad",
+  "text": "Here we go!"
+ },
+ "1131104": {
+  "who": "toad",
+  "text": "Yeah!"
+ },
+ "749056": {
+  "who": "announcer",
+  "text": "versus"
+ },
+ "1340768": {
+  "who": "dk",
+  "text": "HEEEEE!"
+ },
+ "1193968": {
+  "who": "wario",
+  "text": "Fire!"
+ },
+ "1211120": {
+  "who": "wario",
+  "text": "HAHAHAHA!"
+ },
+ "971200": {
+  "who": "mario",
+  "text": "Mamma Mia!"
+ },
+ "701264": {
+  "who": "yoshi",
+  "text": "AHHH!!!"
+ },
+ "1143056": {
+  "who": "toad",
+  "text": "AHHH WOAH WOAH WOAH WOAH WOAH"
+ },
+ "676416": {
+  "who": "yoshi",
+  "text": "What?"
+ },
+ "1312272": {
+  "who": "dk",
+  "text": "Bingo! Bye-bye!"
+ },
+ "1018736": {
+  "who": "mario",
+  "text": "Ho ho!"
+ },
+ "808080": {
+  "who": "announcer",
+  "text": "Select Map."
+ },
+ "1156448": {
+  "who": "toad",
+  "text": "AHHHHHHHHHH!"
+ },
+ "1052512": {
+  "who": "luigi",
+  "text": "Mamma Mia!"
+ },
+ "318448": {
+  "who": "peach",
+  "text": "Peachy!"
+ },
+ "181120": {
+  "who": "toad",
+  "text": "BOOM!"
+ },
+ "782112": {
+  "who": "announcer",
+  "text": "option"
+ },
+ "1031888": {
+  "who": "mario",
+  "text": "Bingo! Ho, ho, ho, ho!"
+ },
+ "757552": {
+  "who": "announcer",
+  "text": "at all!"
+ }
+}

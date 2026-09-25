@@ -1,0 +1,651 @@
+{
+ "@comment": "Text-bearing textures -> words (from the decomp's symbol names / course names) + our style. Keys are asset paths.",
+ "bin/gTextureMapSelect.rgba16.tkmk00": {
+  "text": "MAP SELECT",
+  "style": "big_title"
+ },
+ "bin/texture_game_select.rgba16.tkmk00": {
+  "text": "GAME SELECT",
+  "style": "big_title"
+ },
+ "bin/texture_option.rgba16.tkmk00": {
+  "text": "OPTION",
+  "style": "big_title_green"
+ },
+ "bin/texture_player_select.rgba16.tkmk00": {
+  "text": "PLAYER SELECT",
+  "style": "big_title_green"
+ },
+ "bin/gTextureMenuFlowerCup.rgba16.tkmk00": {
+  "text": "FLOWER CUP",
+  "style": "cup",
+  "icon": "flower"
+ },
+ "bin/gTextureMenuMushroomCup.rgba16.tkmk00": {
+  "text": "MUSHROOM CUP",
+  "style": "cup",
+  "icon": "mushroom"
+ },
+ "bin/gTextureMenuSpecialCup.rgba16.tkmk00": {
+  "text": "SPECIAL CUP",
+  "style": "cup",
+  "icon": "diamond"
+ },
+ "bin/gTextureMenuStarCup.rgba16.tkmk00": {
+  "text": "STAR CUP",
+  "style": "cup",
+  "icon": "star"
+ },
+ "bin/gTextureMenuWithItem.rgba16.tkmk00": {
+  "text": "ITEMS ON",
+  "style": "button"
+ },
+ "bin/gTextureMenuWithoutItem.rgba16.tkmk00": {
+  "text": "ITEMS OFF",
+  "style": "button"
+ },
+ "bin/gTextureTitleBansheeBoardwalk.rgba16.tkmk00": {
+  "text": "BANSHEE BOARDWALK",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleBigDonut.rgba16.tkmk00": {
+  "text": "BIG DONUT",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleBlockFort.rgba16.tkmk00": {
+  "text": "BLOCK FORT",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleBowsersCastle.rgba16.tkmk00": {
+  "text": "BOWSER'S CASTLE",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleChocoMountain.rgba16.tkmk00": {
+  "text": "CHOCO MOUNTAIN",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleDKsJungleParkway.rgba16.tkmk00": {
+  "text": "D.K.'S JUNGLE PARKWAY",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleDoubleDeck.rgba16.tkmk00": {
+  "text": "DOUBLE DECK",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleFrappeSnowland.rgba16.tkmk00": {
+  "text": "FRAPPE SNOWLAND",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleKalimariDesert.rgba16.tkmk00": {
+  "text": "KALIMARI DESERT",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleKoopaTroopaBeach.rgba16.tkmk00": {
+  "text": "KOOPA TROOPA BEACH",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleLuigiRaceway.rgba16.tkmk00": {
+  "text": "LUIGI RACEWAY",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleMarioRaceway.rgba16.tkmk00": {
+  "text": "MARIO RACEWAY",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleMooMooFarm.rgba16.tkmk00": {
+  "text": "MOO MOO FARM",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleRainbowRoad.rgba16.tkmk00": {
+  "text": "RAINBOW ROAD",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleRoyalRaceway.rgba16.tkmk00": {
+  "text": "ROYAL RACEWAY",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleSherbetLand.rgba16.tkmk00": {
+  "text": "SHERBET LAND",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleSkyscraper.rgba16.tkmk00": {
+  "text": "SKYSCRAPER",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleToadsTurnpike.rgba16.tkmk00": {
+  "text": "TOAD'S TURNPIKE",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleWarioStadium.rgba16.tkmk00": {
+  "text": "WARIO STADIUM",
+  "style": "course_title"
+ },
+ "bin/gTextureTitleYoshiValley.rgba16.tkmk00": {
+  "text": "YOSHI VALLEY",
+  "style": "course_title"
+ },
+ "bin/texture_100cc.rgba16.tkmk00": {
+  "text": "100 CC",
+  "style": "button"
+ },
+ "bin/texture_150cc.rgba16.tkmk00": {
+  "text": "150 CC",
+  "style": "button"
+ },
+ "bin/texture_50cc.rgba16.tkmk00": {
+  "text": "50 CC",
+  "style": "button"
+ },
+ "bin/texture_begin.rgba16.tkmk00": {
+  "text": "BEGIN",
+  "style": "button"
+ },
+ "bin/texture_data.rgba16.tkmk00": {
+  "text": "DATA",
+  "style": "button"
+ },
+ "bin/texture_extra.rgba16.tkmk00": {
+  "text": "EXTRA",
+  "style": "button"
+ },
+ "bin/texture_ok.rgba16.tkmk00": {
+  "text": "OK ?",
+  "style": "button"
+ },
+ "bin/texture_l_option.rgba16.tkmk00": {
+  "text": "OPTION",
+  "style": "mode",
+  "badge": "L",
+  "top": [
+   255,
+   240,
+   80
+  ],
+  "bot": [
+   255,
+   150,
+   20
+  ]
+ },
+ "bin/texture_r_data.rgba16.tkmk00": {
+  "text": "DATA",
+  "style": "mode",
+  "badge": "R",
+  "top": [
+   255,
+   240,
+   80
+  ],
+  "bot": [
+   255,
+   150,
+   20
+  ]
+ },
+ "bin/texture_menu_1p_game.rgba16.tkmk00": {
+  "text": "1P GAME",
+  "style": "menu_game",
+  "heads": [
+   "mario"
+  ]
+ },
+ "bin/texture_menu_2p_game.rgba16.tkmk00": {
+  "text": "2P GAME",
+  "style": "menu_game",
+  "heads": [
+   "mario",
+   "luigi"
+  ]
+ },
+ "bin/texture_menu_3p_game.rgba16.tkmk00": {
+  "text": "3P GAME",
+  "style": "menu_game",
+  "heads": [
+   "peach",
+   "mario",
+   "luigi"
+  ]
+ },
+ "bin/texture_menu_4p_game.rgba16.tkmk00": {
+  "text": "4P GAME",
+  "style": "menu_game",
+  "heads": [
+   "peach",
+   "mario",
+   "toad",
+   "luigi"
+  ]
+ },
+ "bin/texture_menu_ghost.rgba16.tkmk00": {
+  "text": "GHOST",
+  "style": "ghost"
+ },
+ "bin/texture_mode_battle.rgba16.tkmk00": {
+  "text": "BATTLE",
+  "style": "mode",
+  "badge": "bomb"
+ },
+ "bin/texture_mode_mario_gp.rgba16.tkmk00": {
+  "text": "MARIO GP",
+  "style": "mode",
+  "badge": "flag"
+ },
+ "bin/texture_mode_time_trials.rgba16.tkmk00": {
+  "text": "T.TRIALS",
+  "style": "mode",
+  "badge": "clock"
+ },
+ "bin/texture_mode_vs.rgba16.tkmk00": {
+  "text": "VS",
+  "style": "mode",
+  "badge": "flag2"
+ },
+ "bin/texture_name_bowser.rgba16.tkmk00": {
+  "text": "BOWSER",
+  "style": "name_plate"
+ },
+ "bin/texture_name_dk.rgba16.tkmk00": {
+  "text": "D.K.",
+  "style": "name_plate"
+ },
+ "bin/texture_name_luigi.rgba16.tkmk00": {
+  "text": "LUIGI",
+  "style": "name_plate"
+ },
+ "bin/texture_name_mario.rgba16.tkmk00": {
+  "text": "MARIO",
+  "style": "name_plate"
+ },
+ "bin/texture_name_peach.rgba16.tkmk00": {
+  "text": "PEACH",
+  "style": "name_plate"
+ },
+ "bin/texture_name_toad.rgba16.tkmk00": {
+  "text": "TOAD",
+  "style": "name_plate"
+ },
+ "bin/texture_name_wario.rgba16.tkmk00": {
+  "text": "WARIO",
+  "style": "name_plate"
+ },
+ "bin/texture_name_yoshi.rgba16.tkmk00": {
+  "text": "YOSHI",
+  "style": "name_plate"
+ },
+ "textures/standalone/place_n64_controller_pak_into_controller_1.ia16.png": {
+  "text": "Place N64 Controller Pak\ninto Controller 1",
+  "style": "msg"
+ },
+ "textures/standalone/erasing_selected_record.ia16.png": {
+  "text": "Erasing selected record\nPlease wait...",
+  "style": "msg"
+ },
+ "textures/standalone/please_reinsert_original_n64_controller_pak.ia16.png": {
+  "text": "Please reinsert original\nN64 Controller Pak",
+  "style": "msg"
+ },
+ "textures/standalone/erase_data_record_confirmation.ia16.png": {
+  "text": "Erase selected data record\nAre you sure?\n(A)-Enter  (B)-Cancel",
+  "style": "msg"
+ },
+ "textures/standalone/n64_controller_pak_data_select.ia16.png": {
+  "text": "N64 Controller Pak Data\nSelect with Control Stick\n(A)-Enter  (B)-Cancel",
+  "style": "msg"
+ },
+ "textures/standalone/record_not_erased.ia16.png": {
+  "text": "Record not erased",
+  "style": "msg"
+ },
+ "textures/standalone/select_record.ia16.png": {
+  "text": "Select Record",
+  "style": "msg"
+ },
+ "textures/standalone/table_of_contents.ia16.png": {
+  "text": "Table of Contents",
+  "style": "msg"
+ },
+ "textures/standalone/text_end.ia16.png": {
+  "text": "End",
+  "style": "msg"
+ },
+ "textures/standalone/text_erase.ia16.png": {
+  "text": "Erase",
+  "style": "msg"
+ },
+ "textures/standalone/text_game_data.ia16.png": {
+  "text": "Game Data",
+  "style": "msg"
+ },
+ "textures/standalone/text_hash.ia16.png": {
+  "text": "#",
+  "style": "msg"
+ },
+ "textures/standalone/text_pages.ia16.png": {
+  "text": "Pages",
+  "style": "msg"
+ },
+ "textures/standalone/text_pages_free.ia16.png": {
+  "text": "Pages Free",
+  "style": "msg"
+ },
+ "textures/standalone/text_quit.ia16.png": {
+  "text": "Quit",
+  "style": "msg"
+ },
+ "textures/raw/copyright_1996.rgba16.png": {
+  "text": "\u00a9 1996 Nintendo",
+  "style": "msg",
+  "outline": [
+   0,
+   0,
+   0
+  ],
+  "ow": 1
+ },
+ "textures/raw/push_start_button.rgba16.png": {
+  "text": "PUSH START BUTTON",
+  "style": "push_start"
+ },
+ "textures/standalone/sign_yoshi.rgba16.png": {
+  "text": "YOSHI",
+  "style": "sign"
+ },
+ "textures/standalone/sign_blue_64.rgba16.png": {
+  "text": "64",
+  "style": "sign"
+ },
+ "assets/courses/kalimari_desert/gTextureLocomotive64.png": {
+  "text": "64",
+  "style": "sign"
+ },
+ "textures/standalone/sign_nintendo_0.rgba16.png": {
+  "text": "Nintendo",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_nintendo_1.rgba16.png": {
+  "text": "Nintendo",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_nintendo_red_0.rgba16.png": {
+  "text": "Nintendo",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_nintendo_red_1.rgba16.png": {
+  "text": "Nintendo",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_welcome_0.rgba16.png": {
+  "text": "WELCOME",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_welcome_1.rgba16.png": {
+  "text": "WELCOME",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_koopa_air_0.rgba16.png": {
+  "text": "KOOPA AIR",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_koopa_air_1.rgba16.png": {
+  "text": "KOOPA AIR",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_luigis_0.rgba16.png": {
+  "text": "LUIGI'S",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_luigis_1.rgba16.png": {
+  "text": "LUIGI'S",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_mario_star_0.rgba16.png": {
+  "text": "MARIO",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_mario_star_1.rgba16.png": {
+  "text": "MARIO",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/sign_shell_shot_0.rgba16.png": {
+  "text": "SHELL SHOT",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "textures/standalone/sign_shell_shot_1.rgba16.png": {
+  "text": "SHELL SHOT",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "assets/courses/moo_moo_farm/gTextureMooMooFarmSignLeft.png": {
+  "text": "MOO MOO FARM",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "assets/courses/moo_moo_farm/gTextureMooMooFarmSignRight.png": {
+  "text": "MOO MOO FARM",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "assets/courses/wario_stadium/gTextureWarioStadiumSignTopLeft.png": {
+  "text": "WARIO",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "assets/courses/wario_stadium/gTextureWarioStadiumSignTopRight.png": {
+  "text": "WARIO",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "assets/courses/wario_stadium/gTextureWarioStadiumSignBottomLeft.png": {
+  "text": "STADIUM",
+  "style": "sign",
+  "split": [
+   0,
+   2
+  ]
+ },
+ "assets/courses/wario_stadium/gTextureWarioStadiumSignBottomRight.png": {
+  "text": "STADIUM",
+  "style": "sign",
+  "split": [
+   1,
+   2
+  ]
+ },
+ "textures/standalone/small_letter_0.ia16.png": {
+  "text": "0",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_1.ia16.png": {
+  "text": "1",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_2.ia16.png": {
+  "text": "2",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_3.ia16.png": {
+  "text": "3",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_4.ia16.png": {
+  "text": "4",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_5.ia16.png": {
+  "text": "5",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_6.ia16.png": {
+  "text": "6",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_7.ia16.png": {
+  "text": "7",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_8.ia16.png": {
+  "text": "8",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/standalone/small_letter_9.ia16.png": {
+  "text": "9",
+  "style": "msg",
+  "font": "lilita"
+ },
+ "textures/gTextureTitleBansheeBoardwalk.rgba16.png": {
+  "text": "BANSHEE BOARDWALK",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleBigDonut.rgba16.png": {
+  "text": "BIG DONUT",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleBlockFort.rgba16.png": {
+  "text": "BLOCK FORT",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleBowsersCastle.rgba16.png": {
+  "text": "BOWSER'S CASTLE",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleChocoMountain.rgba16.png": {
+  "text": "CHOCO MOUNTAIN",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleDKsJungleParkway.rgba16.png": {
+  "text": "D.K.'S JUNGLE PARKWAY",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleDoubleDeck.rgba16.png": {
+  "text": "DOUBLE DECK",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleFrappeSnowland.rgba16.png": {
+  "text": "FRAPPE SNOWLAND",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleKalimariDesert.rgba16.png": {
+  "text": "KALIMARI DESERT",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleKoopaTroopaBeach.rgba16.png": {
+  "text": "KOOPA TROOPA BEACH",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleLuigiRaceway.rgba16.png": {
+  "text": "LUIGI RACEWAY",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleMarioRaceway.rgba16.png": {
+  "text": "MARIO RACEWAY",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleMooMooFarm.rgba16.png": {
+  "text": "MOO MOO FARM",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleRainbowRoad.rgba16.png": {
+  "text": "RAINBOW ROAD",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleRoyalRaceway.rgba16.png": {
+  "text": "ROYAL RACEWAY",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleSherbetLand.rgba16.png": {
+  "text": "SHERBET LAND",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleSkyscraper.rgba16.png": {
+  "text": "SKYSCRAPER",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleToadsTurnpike.rgba16.png": {
+  "text": "TOAD'S TURNPIKE",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleWarioStadium.rgba16.png": {
+  "text": "WARIO STADIUM",
+  "style": "course_title"
+ },
+ "textures/gTextureTitleYoshiValley.rgba16.png": {
+  "text": "YOSHI VALLEY",
+  "style": "course_title"
+ }
+}
